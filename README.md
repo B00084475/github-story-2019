@@ -1,5 +1,12 @@
-# github-story-2019
+# Git Story 2019
 #
 # Student No: B00084475
+# GitPages: https://b00084475.github.io/index.html
 #
-# Chapter 1 rough guide complete
+# GitStory Status:
+#
+# Chapter 1 - first draft complete
+#
+# Chapter 1 - added test links
+#
+# Chapter 2 - added body
