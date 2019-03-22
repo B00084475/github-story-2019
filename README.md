@@ -9,4 +9,8 @@
 #
 # Chapter 1 - added test links
 #
-# Chapter 2 - added body
+# Chapter 2 - added first draft
+#
+# Chapter 3 - added first draft
+#
+# Added links 
